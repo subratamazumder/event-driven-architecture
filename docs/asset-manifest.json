@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/event-driven-architecture/static/css/main.b100e6da.chunk.css",
+    "main.js": "/event-driven-architecture/static/js/main.d35892ab.chunk.js",
+    "main.js.map": "/event-driven-architecture/static/js/main.d35892ab.chunk.js.map",
+    "runtime-main.js": "/event-driven-architecture/static/js/runtime-main.8ce904df.js",
+    "runtime-main.js.map": "/event-driven-architecture/static/js/runtime-main.8ce904df.js.map",
+    "static/css/2.833dd627.chunk.css": "/event-driven-architecture/static/css/2.833dd627.chunk.css",
+    "static/js/2.9f0d03b4.chunk.js": "/event-driven-architecture/static/js/2.9f0d03b4.chunk.js",
+    "static/js/2.9f0d03b4.chunk.js.map": "/event-driven-architecture/static/js/2.9f0d03b4.chunk.js.map",
+    "index.html": "/event-driven-architecture/index.html",
+    "precache-manifest.517ce03308af3458721a52b00d8d1711.js": "/event-driven-architecture/precache-manifest.517ce03308af3458721a52b00d8d1711.js",
+    "service-worker.js": "/event-driven-architecture/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/event-driven-architecture/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/event-driven-architecture/static/css/main.b100e6da.chunk.css.map",
+    "static/media/dp-logo.png": "/event-driven-architecture/static/media/dp-logo.b49a8088.png",
+    "static/media/react-bootstrap.svg": "/event-driven-architecture/static/media/react-bootstrap.83fe61b0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ce904df.js",
+    "static/css/2.833dd627.chunk.css",
+    "static/js/2.9f0d03b4.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.d35892ab.chunk.js"
+  ]
+}
