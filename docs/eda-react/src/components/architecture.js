@@ -1,5 +1,5 @@
 import React from "react";
-import { Row, Col, Navbar } from "react-bootstrap";
+import { Navbar } from "react-bootstrap";
 import EventDrivenArch from "../EventDrivenArch.png";
 import Image from "react-bootstrap/Image";
 function Archictecture() {
@@ -8,9 +8,9 @@ function Archictecture() {
     height: "70%"
   };
   return (
-    <div id="eda-architecture" className="text-white text-center">
+    <div id="eda-architecture" className="text-white text-center font-weight-bold">
       <Navbar bg="secondary" expand="lg">
-        Archictecture
+        Architecture
       </Navbar>
       <div className="col-md-12 col-sm-12 col-xs-12 text-center">
         <Image
