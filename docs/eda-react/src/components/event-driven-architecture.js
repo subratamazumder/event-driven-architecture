@@ -17,7 +17,7 @@ class EDA extends React.Component {
     return (
       <div id="eda">
         <Navbar bg="dark" variant="dark">
-          <Navbar.Brand href="https://subrata.dev/event-driven-architecture/" className="text-white font-weight-bold">
+          <Navbar.Brand href="https://subrata.dev/" className="text-white font-weight-bold">
             <img
               alt=""
               src={BrandLogo}
