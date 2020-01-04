@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24f8f1f2525e09d0a5f0a2693589b0d5",
+    "revision": "90f192392d7f46ca96f3077b8203bbc6",
     "url": "/event-driven-architecture/index.html"
   },
   {
-    "revision": "3453c4bd8f7d481d0f5a",
+    "revision": "a79feaef8fe99346da43",
     "url": "/event-driven-architecture/static/css/2.833dd627.chunk.css"
   },
   {
-    "revision": "4224552360d21528625d",
+    "revision": "810a69a51d31d8e11bcc",
     "url": "/event-driven-architecture/static/css/main.b100e6da.chunk.css"
   },
   {
-    "revision": "3453c4bd8f7d481d0f5a",
-    "url": "/event-driven-architecture/static/js/2.9f0d03b4.chunk.js"
+    "revision": "a79feaef8fe99346da43",
+    "url": "/event-driven-architecture/static/js/2.06657787.chunk.js"
   },
   {
-    "revision": "4224552360d21528625d",
-    "url": "/event-driven-architecture/static/js/main.d35892ab.chunk.js"
+    "revision": "810a69a51d31d8e11bcc",
+    "url": "/event-driven-architecture/static/js/main.d73a9bf5.chunk.js"
   },
   {
     "revision": "63dcafea9e4e67970e37",
     "url": "/event-driven-architecture/static/js/runtime-main.8ce904df.js"
+  },
+  {
+    "revision": "2594394454b4684984497b1af64c4f1e",
+    "url": "/event-driven-architecture/static/media/EventDrivenArch.25943944.png"
   },
   {
     "revision": "b49a8088f80b54862308a5ccc76ab91d",

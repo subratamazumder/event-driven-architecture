@@ -5,6 +5,9 @@ import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import BrandLogo from "../dp-logo.png";
 import Image from "react-bootstrap/Image";
+import Archictecture from "../components/architecture"
+import Infrastructure from "../components/infrastucture"
+import Demo from "../components/demo"
 class EDA extends React.Component {
   constructor(props) {
     console.log("EDA constructing");
@@ -42,7 +45,7 @@ class EDA extends React.Component {
         </Navbar>
         <Row>
           <Col sm>
-            
+            <Archictecture></Archictecture>
           </Col>
         </Row>
         <Row>
@@ -51,12 +54,13 @@ class EDA extends React.Component {
         </Row>
         <Row>
           <Col sm>
-            <div className="text-center">
-            </div>
+            <Infrastructure></Infrastructure>
           </Col>
         </Row>
         <Row>
-          <br />
+          <Col sm>
+            <Demo></Demo>
+          </Col>
         </Row>
       </div>
     );
