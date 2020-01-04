@@ -25,7 +25,7 @@ class EDA extends React.Component {
               height="30"
               className="d-inline-block align-top"
             />{" "}
-            Serverless Event Driven Archictecture
+            Serverless Event Driven Architecture
           </Navbar.Brand>
           <Nav className="mr-auto">
           </Nav>
