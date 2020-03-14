@@ -8,6 +8,7 @@ import Image from "react-bootstrap/Image";
 import Archictecture from "../components/architecture"
 import Infrastructure from "../components/infrastucture"
 import Demo from "../components/demo"
+import Description from "../components/eda-description"
 class EDA extends React.Component {
   constructor(props) {
     console.log("EDA constructing");
@@ -45,12 +46,13 @@ class EDA extends React.Component {
         </Navbar>
         <Row>
           <Col sm>
-            <Archictecture></Archictecture>
+            <Description></Description>
           </Col>
         </Row>
         <Row>
-          <Col></Col>
-        
+          <Col sm>
+            <Archictecture></Archictecture>
+          </Col>
         </Row>
         <Row>
           <Col sm>

@@ -10,7 +10,7 @@ class Infrastructure extends React.Component {
     return (
       <div id="infra" className="text-white text-center font-weight-bold">
         <Navbar bg="secondary" expand="lg">
-        Infrastructure As Code-coming soon!
+        Infrastructure As Code (IaC)-coming soon!
       </Navbar>
         <Row>
           <Col sm>
